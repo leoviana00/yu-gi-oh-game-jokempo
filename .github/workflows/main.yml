@@ -1,0 +1,52 @@
+name: Generate changelog
+
+on:
+  release:
+    types: [created, edited]
+  push:
+    branches: [main]
+jobs:
+  run_tests:
+    permissions: write-all
+    runs-on: ubuntu-24.04
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+
+    - name: Run changelog script file
+      run: |
+        git config --global user.name "$(git --no-pager log --format=format:'%an' -n 1)"
+        git config --global user.email "$(git --no-pager log --format=format:'%ae' -n 1)"
+        chmod +x ./.github/scripts/changelog.sh
+        ./.github/scripts/changelog.sh
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_REPOSITORY: ${{ secrets.GITHUB_REPOSITORY }}
+        GITHUB_SERVER_URL: ${{ secrets.GITHUB_SERVER_URL }}
+
+    - name: Comment Changelog on Success 
+      if: success()
+      run: |
+        cat <<EOT > message.txt
+        Olá! Changelog atualizado com sucesso 🥳🚀
+        EOT
+
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Comment Changelog on Failure
+      if: failure()
+      run: |
+        cat <<EOT > message.txt
+        Olá! 🚫 Parece que houve um problema a atualização do changelog 🧐 Aqui estão algumas coisas para verificar:
+
+        - Verificar token de acesso.
+        - Checar se não hove nenhuma mudança nas configurações das actions ou script responsável por gerar o changelog nos útimos dias.
+
+        Agradecemos sua compreensão 👊😉
+        EOT
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
