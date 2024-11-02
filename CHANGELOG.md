@@ -2,6 +2,7 @@
 
 ## Current - Work in progress
 ### Merges
+*  Merge pull request #5 from leoviana00/feature/container/right [View](https://github.com/leoviana00/yu-gi-oh-game-jokenpo/commits/02b3d069c3f3dd90d02b1515fd223f42cd01dbcd)
 *  Merge pull request #4 from leoviana00/feature/container/left [View](https://github.com/leoviana00/yu-gi-oh-game-jokenpo/commits/8a691fac1d73df64b4480222d81df86bff23a333)
 *  Merge pull request #3 from leoviana00/feature/general/structuring [View](https://github.com/leoviana00/yu-gi-oh-game-jokenpo/commits/eb4d66acabcb73bc0f49a2d7830887dc89998d47)
 *  Merge pull request #2 from leoviana00/feature/setup/project [View](https://github.com/leoviana00/yu-gi-oh-game-jokenpo/commits/f47e649fe65188b3ab2dd103c23db2d2c84f1b37)
@@ -13,6 +14,9 @@
 *  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/yu-gi-oh-game-jokenpo/commits/92be45614811b11dc3d035e9f30a8933fca74434)
 *  feat(left): add video de fundo [View](https://github.com/leoviana00/yu-gi-oh-game-jokenpo/commits/12e42efbfb2deb2a2b1bb203a4c9f98340d54c26)
 *  feat(left): estrutura do lado esquerdo [View](https://github.com/leoviana00/yu-gi-oh-game-jokenpo/commits/3ee47ea9753e2af33f0d1997ca836613885df065)
+*  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/yu-gi-oh-game-jokenpo/commits/a77b5248e49c6eb916eba4e2b1c049578933d8e6)
+*  feat(right): construindo container right [View](https://github.com/leoviana00/yu-gi-oh-game-jokenpo/commits/2bc03dedc1acef602039a2f73d30a366eff26234)
+*  feat(style): estiçizando componentes visuais do container right [View](https://github.com/leoviana00/yu-gi-oh-game-jokenpo/commits/514dd1c267c139c7e220c60f827ac898854655f4)
 
 
 
