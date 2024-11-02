@@ -1,1 +1,0 @@
-# yu-gi-oh-game-jokempo
