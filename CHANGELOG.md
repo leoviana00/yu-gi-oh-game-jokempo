@@ -2,10 +2,13 @@
 
 ## Current - Work in progress
 ### Merges
+*  Merge pull request #3 from leoviana00/feature/general/structuring [View](https://github.com/leoviana00/yu-gi-oh-game-jokenpo/commits/eb4d66acabcb73bc0f49a2d7830887dc89998d47)
 *  Merge pull request #2 from leoviana00/feature/setup/project [View](https://github.com/leoviana00/yu-gi-oh-game-jokenpo/commits/f47e649fe65188b3ab2dd103c23db2d2c84f1b37)
 ### Commits
 *  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/yu-gi-oh-game-jokenpo/commits/2760959347d7eeb600cacb6debdc6a140c09f416)
 *  feat(setup): criando a base para o projeto [View](https://github.com/leoviana00/yu-gi-oh-game-jokenpo/commits/8d015c87eeb4e781641a616e77328c6be662ce3d)
+*  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/yu-gi-oh-game-jokenpo/commits/a2c8c8726faeea787ecd00a1db78e21bc86605bc)
+*  feat(structuring): criando uma estrutura geral dos containers [View](https://github.com/leoviana00/yu-gi-oh-game-jokenpo/commits/c7abc1dfb02a252fc17e7e5c93cc345afb59c47f)
 
 
 
