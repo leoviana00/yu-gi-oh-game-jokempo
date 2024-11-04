@@ -2,6 +2,7 @@
 
 ## Current - Work in progress
 ### Merges
+*  Merge pull request #7 from leoviana00/feature/game/logic [View](https://github.com/leoviana00/yu-gi-oh-game-jokenpo/commits/94c892210fc0abf41da0fffcd2f47ab6a0279c86)
 *  Merge pull request #6 from leoviana00/feature/game/logic [View](https://github.com/leoviana00/yu-gi-oh-game-jokenpo/commits/ed86b9659a64f859ea8651f91b0c54e1d95fd478)
 *  Merge pull request #5 from leoviana00/feature/container/right [View](https://github.com/leoviana00/yu-gi-oh-game-jokenpo/commits/02b3d069c3f3dd90d02b1515fd223f42cd01dbcd)
 *  Merge pull request #4 from leoviana00/feature/container/left [View](https://github.com/leoviana00/yu-gi-oh-game-jokenpo/commits/8a691fac1d73df64b4480222d81df86bff23a333)
@@ -27,6 +28,8 @@
 *  feat(card): imṕlementando o mouseover [View](https://github.com/leoviana00/yu-gi-oh-game-jokenpo/commits/660d42bb981b0e29280c4ca97bb0bd8de0fd5d9e)
 *  feat(card): implementacao do setCardFields [View](https://github.com/leoviana00/yu-gi-oh-game-jokenpo/commits/6ad58e42080b245d67b4449e3c90c5e73bd21652)
 *  feat(cards): remove cards image [View](https://github.com/leoviana00/yu-gi-oh-game-jokenpo/commits/3b1f3416b49a13d6968bcdd0505b0ead9bc67a1c)
+*  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/yu-gi-oh-game-jokenpo/commits/79312c7a9446350c5576ccad7d55697a450e31f1)
+*  feat(duelos): implementacao da logica de duelos e audios [View](https://github.com/leoviana00/yu-gi-oh-game-jokenpo/commits/50089dbd99776cd3a5a9a09deb3f9c03fa55ed78)
 
 
 
