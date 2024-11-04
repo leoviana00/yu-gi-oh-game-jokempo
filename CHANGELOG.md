@@ -2,6 +2,14 @@
 
 ## Current - Work in progress
 ### Merges
+
+### Commits
+
+
+
+## 1.0.0 - (2024-11-02)
+### Merges
+*  Merge pull request #9 from leoviana00/feature/game/logic [View](https://github.com/leoviana00/yu-gi-oh-game-jokenpo/commits/22458833b3a3cd078ed438be012a0a746c8f842b)
 *  Merge pull request #8 from leoviana00/feature/game/logic [View](https://github.com/leoviana00/yu-gi-oh-game-jokenpo/commits/9f7a580917ec1a3ef771afcb35b98cc10135c8fd)
 *  Merge pull request #7 from leoviana00/feature/game/logic [View](https://github.com/leoviana00/yu-gi-oh-game-jokenpo/commits/94c892210fc0abf41da0fffcd2f47ab6a0279c86)
 *  Merge pull request #6 from leoviana00/feature/game/logic [View](https://github.com/leoviana00/yu-gi-oh-game-jokenpo/commits/ed86b9659a64f859ea8651f91b0c54e1d95fd478)
@@ -35,6 +43,8 @@
 *  refact(functions): refatorando algumas funcoes e organizando o codigo [View](https://github.com/leoviana00/yu-gi-oh-game-jokenpo/commits/10b6146860b9535bc20a31b03851a09386892700)
 *  feat(cursor): personalizando o cursor [View](https://github.com/leoviana00/yu-gi-oh-game-jokenpo/commits/22e4feea76f4c2cfabec2d7a65c6bf1d034b7f95)
 *  refact(functions): refatornado o cofigo [View](https://github.com/leoviana00/yu-gi-oh-game-jokenpo/commits/126ec210f1f1f34e08ab250d4413e351e146cdc0)
+*  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/yu-gi-oh-game-jokenpo/commits/99c0c4fe289bb463de2d279f7421cec03be0b274)
+*  docs(readme): atualizando o readme [View](https://github.com/leoviana00/yu-gi-oh-game-jokenpo/commits/4cc648f53b1a7327fb899867f2342951d0e9921d)
 
 
 
@@ -48,7 +58,8 @@
 *  docs(game): documentacao inicial [View](https://github.com/leoviana00/yu-gi-oh-game-jokenpo/commits/e2975c63ef5caade405d90854d1c4437357ae863)
 ## 📝 Metadata
 ```
-This version -------- 0.0.0
+This version -------- 1.0.0
+0.0.0
 Previous version ---- 0.0.0
-Total commits ------- 1
+Total commits ------- 35
 ```
